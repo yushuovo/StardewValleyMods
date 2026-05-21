@@ -1,0 +1,12 @@
+{
+  "console.reload_config.description": "ゲームを再起動せずに Chest Peek の config.json を再読み込みします。",
+
+  "config.use_hotkey_preview.name": "ホットキーでプレビュー",
+  "config.use_hotkey_preview.tooltip": "有効にすると、プレビューキーを押している間だけチェストの中身を表示します。無効にすると、チェストにカーソルを合わせるだけで自動的にプレビューを表示します。",
+
+  "config.preview_key.name": "プレビューキー",
+  "config.preview_key.tooltip": "ホットキープレビューが有効なとき、チェストのプレビューを表示するためのキーです。",
+
+  "config.enable_pause_preview.name": "一時停止プレビューを有効化",
+  "config.enable_pause_preview.tooltip": "ホットキープレビューが有効な場合のみ機能します。シングルプレイでは、プレビューキーを押している間ゲームを一時停止し、マウスを動かしてチェストを確認できます。マルチプレイでは一時停止しません。"
+}

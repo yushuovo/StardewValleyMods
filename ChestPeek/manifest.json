@@ -1,0 +1,10 @@
+{
+  "Name": "Chest Peek",
+  "Author": "yushu",
+  "Version": "1.0.1",
+  "Description": "Preview chest contents by hovering over chests.",
+  "UniqueID": "yushu.ChestPeek",
+  "EntryDll": "ChestPeek.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}

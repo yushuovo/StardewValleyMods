@@ -1,0 +1,12 @@
+{
+  "console.reload_config.description": "Reload Chest Peek's config.json without restarting the game.",
+
+  "config.use_hotkey_preview.name": "Use hotkey preview",
+  "config.use_hotkey_preview.tooltip": "When enabled, chest contents are shown only while holding the preview key. When disabled, hovering over a chest shows the preview automatically.",
+
+  "config.preview_key.name": "Preview key",
+  "config.preview_key.tooltip": "The keybind used to trigger chest preview when hotkey preview is enabled.",
+
+  "config.enable_pause_preview.name": "Enable pause preview",
+  "config.enable_pause_preview.tooltip": "Only works when hotkey preview is enabled. In single-player, holding the preview key pauses the game and lets you move the mouse to inspect chests. Multiplayer will not pause."
+}

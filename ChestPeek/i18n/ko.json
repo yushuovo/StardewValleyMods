@@ -1,0 +1,12 @@
+{
+  "console.reload_config.description": "게임을 다시 시작하지 않고 Chest Peek의 config.json을 다시 불러옵니다.",
+
+  "config.use_hotkey_preview.name": "단축키 미리보기 사용",
+  "config.use_hotkey_preview.tooltip": "켜면 미리보기 키를 누르고 있는 동안에만 상자 내용이 표시됩니다. 끄면 상자 위에 마우스를 올렸을 때 자동으로 미리보기가 표시됩니다.",
+
+  "config.preview_key.name": "미리보기 키",
+  "config.preview_key.tooltip": "단축키 미리보기가 켜져 있을 때 상자 미리보기를 표시하는 키입니다.",
+
+  "config.enable_pause_preview.name": "일시정지 미리보기 사용",
+  "config.enable_pause_preview.tooltip": "단축키 미리보기가 켜져 있을 때만 작동합니다. 싱글플레이에서는 미리보기 키를 누르고 있는 동안 게임이 일시정지되며, 마우스를 움직여 상자를 확인할 수 있습니다. 멀티플레이에서는 일시정지되지 않습니다."
+}

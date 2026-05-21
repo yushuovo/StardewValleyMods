@@ -1,0 +1,12 @@
+{
+  "console.reload_config.description": "无需重启游戏，重新加载 Chest Peek 的 config.json。",
+
+  "config.use_hotkey_preview.name": "使用快捷键预览",
+  "config.use_hotkey_preview.tooltip": "启用后，只有按住预览键时才会显示箱子内容。关闭后，鼠标悬停在箱子上会自动显示预览。",
+
+  "config.preview_key.name": "预览键",
+  "config.preview_key.tooltip": "启用快捷键预览时，用于触发箱子预览的按键。",
+
+  "config.enable_pause_preview.name": "启用暂停预览",
+  "config.enable_pause_preview.tooltip": "仅在启用快捷键预览时生效。单人模式下，按住预览键会暂停游戏，并允许你移动鼠标查看箱子。多人模式不会暂停。"
+}
